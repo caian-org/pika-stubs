@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 from typing import Any, List, Mapping, Optional, Type
 
 from . import amqp_object

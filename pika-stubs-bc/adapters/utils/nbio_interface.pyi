@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import abc
 import ssl
 from socket import AddressFamily, SocketKind, socket

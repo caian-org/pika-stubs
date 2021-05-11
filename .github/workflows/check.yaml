@@ -21,5 +21,5 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -e .[dev]
-          flake8 pika-stubs
-          mypy -p pika-stubs --strict
+          flake8 pika-stubs-bc
+          mypy -p pika-stubs-bc --strict

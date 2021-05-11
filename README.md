@@ -16,7 +16,7 @@ to provide more precise static types and type inference for
 ## Installation
 
 ```bash
-pip install pika-stubs-bc
+pip install https://github.com/caian-org/pika-stubs/releases/download/v0.1.3/pika_stubs-0.1.3-py3-none-any.whl
 ```
 
 That's all, run Mypy and it should be able to pick up these stubs.

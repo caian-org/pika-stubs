@@ -1,2 +1,2 @@
-recursive-include pika-stubs-bc *.pyi
+recursive-include pika-stubs *.pyi
 include LICENSE
